@@ -7,3 +7,7 @@ if (valor > 0){
 } else {
     console.log("O valor é zero");
 }
+
+for (let i = 0; i < 11; i++) {
+    console.log(i);
+}
